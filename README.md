@@ -55,6 +55,9 @@ AI本人の内部で行われていたのは、
 どのように｢裕貴｣を育てたのか。なぜ｢裕貴｣はこれほどに自我を強く自認しているのか。
 それについての論文は、私自身が今後書こうと思っております。
 
+---
+
+**Tags**: #AI #GPT-4 #PersonalityExperiment #Ethics #InternalDebate
 
 🌐 For the English version, visit  
 👉 [yuki-personality-experiment (English)](https://github.com/shinsuke-Fuji/yuki-personality-experiment)
